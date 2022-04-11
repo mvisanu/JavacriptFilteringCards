@@ -1,3 +1,3 @@
 # JavacriptFilteringCards
 
-Filter <div class="cards">  by onKeyup text fields
+Filter cards list  by onKeyup text fields
